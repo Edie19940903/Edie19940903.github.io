@@ -1,0 +1,9 @@
+.profile-pic {
+	max-width: 50%;
+}
+.card{
+	border: solid grey 1px;/*can change color to 代表颜色的字符 check color picker*/
+	border-radius:10px;
+	padding: 10px;/*内容与格子边线间距*/
+	margin-bottom: 10px;/*格子与格子间距*/
+	box-shadow: 3px 3px 5px #f2e4a2;

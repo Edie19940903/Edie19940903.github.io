@@ -1,0 +1,19 @@
+.profile-pic {
+	max-width: 50%;
+}
+/* this is a comment */
+
+.card{
+	border: solid grey 6px;/*can change color to 代表颜色的字符 check color picker*/
+	border-radius:4px;
+	padding: 10px;/*内容与格子边线间距*/
+	margin-bottom: 10px;/*格子与格子间距*/
+	box-shadow: 0px 0px 0px #f2e4a2;
+}　
+
+.font{
+	color: #ffffff
+}
+.description{
+	background-image: url(https://s-media-cache-ak0.pinimg.com/564x/e9/18/43/e91843297635bcb0a54eff1f3a635e2c.jpg);
+}
